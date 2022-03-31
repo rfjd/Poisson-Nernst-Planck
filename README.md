@@ -6,7 +6,7 @@ This code solves the fully nonlinear one-dimensional ac and dc PNP equations, ac
 2) Perturbation-Solution  
 A second-order perturbation solution to the ac PNP equations for ac potentials. The second-order term provides an approximation for the **AREF** between parallel electrodes.
 
-See the corresponding REAAME.md files for more information.
+See the corresponding README.md files for more information.
 
 How to cite:
 
@@ -20,7 +20,7 @@ How to cite:
 
   A perturbation solution to the full Poisson–Nernst–Planck equations yields an asymmetric rectified electric field  
   S. M. H. Hashemi Amrei, Gregory H. Miller, Kyle J. M. Bishop, and William D. Ristenpart  
-  Soft Matter 16, 7052--7062, 2020
+  Soft Matter 16, 7052-7062, 2020
 
   Net Responses in Nonlinear Dynamical Systems
   S. M. H. Hashemi Amrei  
