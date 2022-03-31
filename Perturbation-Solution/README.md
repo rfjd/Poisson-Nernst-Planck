@@ -14,7 +14,7 @@ See Inputs.txt and AREF_CALC.py for details.
 How to cite:
 
   A perturbation solution to the full Poisson–Nernst–Planck equations yields an asymmetric rectified electric field  
-  S. M. H. Hashemi Amrei, Gregory H. Miller, Kyle J. M. Bishop, and William D. Ristenpart
+  S. M. H. Hashemi Amrei, Gregory H. Miller, Kyle J. M. Bishop, and William D. Ristenpart  
   Soft Matter 16, 7052--7062, 2020
 
   Oscillating Electric Fields in Liquids Create a Long-Range Steady Field  

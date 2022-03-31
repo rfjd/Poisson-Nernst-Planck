@@ -19,7 +19,7 @@ How to cite:
   Phys. Rev. E 99, 062603, 2019
 
   A perturbation solution to the full Poisson–Nernst–Planck equations yields an asymmetric rectified electric field  
-  S. M. H. Hashemi Amrei, Gregory H. Miller, Kyle J. M. Bishop, and William D. Ristenpart
+  S. M. H. Hashemi Amrei, Gregory H. Miller, Kyle J. M. Bishop, and William D. Ristenpart  
   Soft Matter 16, 7052--7062, 2020
 
   Net Responses in Nonlinear Dynamical Systems
