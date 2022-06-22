@@ -3,15 +3,15 @@
 How to cite:
 
   Oscillating Electric Fields in Liquids Create a Long-Range Steady Field  
-  S. M. H. Hashemi Amrei, Scott C. Bukosky, Sean P. Rader, William D. Ristenpart, and Gregory H. Miller  
+  Aref Hashemi, Scott C. Bukosky, Sean P. Rader, William D. Ristenpart, and Gregory H. Miller  
   Phys. Rev. Lett. 121, 185504, 2018
 
   Asymmetric rectified electric fields between parallel electrodes: Numerical and scaling analyses  
-  S. M. H. Hashemi Amrei, Gregory H. Miller, and William D. Ristenpart  
+  Aref Hashemi, Gregory H. Miller, and William D. Ristenpart  
   Phys. Rev. E 99, 062603, 2019
   
   Net Responses in Nonlinear Dynamical Systems  
-  S. M. H. Hashemi Amrei  
+  Aref Hashemi  
   PhD dissertation, University of California Davis, 2021
 
 Most important parameters are given in userINPUT.m:
@@ -63,6 +63,6 @@ Output files will be stored in directory ../matResults/DIR/, where DIR is
 
 
 Correspondence should be addressed to:  
-	       i) S.M.H. (Aref) Hashemi Amrei (aref@cims.nyu.edu)  
+	       i) Aref Hashemi (aref@cims.nyu.edu)  
 	       ii) Gregory H. Miller (grgmiller@ucdavis.edu)  
 	       iii) William D. Ristenpart (wdristenpart@ucdavis.edu) 
