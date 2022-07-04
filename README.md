@@ -22,7 +22,7 @@ How to cite:
   Aref Hashemi, Gregory H. Miller, Kyle J. M. Bishop, and William D. Ristenpart  
   Soft Matter 16, 7052-7062, 2020
 
-  Net Responses in Nonlinear Dynamical Systems
+  Net Responses in Nonlinear Dynamical Systems  
   Aref Hashemi  
   PhD dissertation, University of California Davis, 2021
 

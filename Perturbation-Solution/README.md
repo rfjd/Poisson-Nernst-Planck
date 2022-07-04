@@ -25,7 +25,7 @@ How to cite:
   Aref Hashemi, Gregory H. Miller, and William D. Ristenpart  
   Phys. Rev. E 99, 062603, 2019
 
-  Net Responses in Nonlinear Dynamical Systems
+  Net Responses in Nonlinear Dynamical Systems  
   Aref Hashemi  
   PhD dissertation, University of California Davis, 2021
 
